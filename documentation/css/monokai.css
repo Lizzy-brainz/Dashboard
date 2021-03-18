@@ -1,12 +1,9 @@
-/*
-Monokai style - ported by Luigi Maselli - http://grigio.org
-*/
-
 .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
-  background: #272822; color: #fff;
+  background: #272822;
+  color: #fff;
 }
 
 .hljs-tag,
@@ -17,8 +14,8 @@ Monokai style - ported by Luigi Maselli - http://grigio.org
   color: #fff;
 }
 
-.hljs-keyword{
-	 color: #66d9ef;
+.hljs-keyword {
+  color: #66d9ef;
 }
 
 .hljs-code {
@@ -33,7 +30,7 @@ Monokai style - ported by Luigi Maselli - http://grigio.org
 .hljs-symbol,
 .hljs-regexp,
 .hljs-link {
-  color: #66D9EF;
+  color: #66d9ef;
 }
 
 .hljs-string,
